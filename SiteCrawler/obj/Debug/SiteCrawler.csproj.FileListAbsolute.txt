@@ -1,0 +1,6 @@
+D:\Projects\SiteCrawler\SiteCrawler\bin\Debug\SiteCrawler.exe.config
+D:\Projects\SiteCrawler\SiteCrawler\bin\Debug\SiteCrawler.exe
+D:\Projects\SiteCrawler\SiteCrawler\bin\Debug\SiteCrawler.pdb
+D:\Projects\SiteCrawler\SiteCrawler\obj\Debug\SiteCrawler.csprojResolveAssemblyReference.cache
+D:\Projects\SiteCrawler\SiteCrawler\obj\Debug\SiteCrawler.exe
+D:\Projects\SiteCrawler\SiteCrawler\obj\Debug\SiteCrawler.pdb
